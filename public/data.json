@@ -1,0 +1,206 @@
+[
+  {
+    "id": 1,
+    "name": "Raspberry Pi 4, 4GB RAM",
+    "image": "https://i.ibb.co.com/B2nDg7SV/image.png",
+    "description": "Single-board computer for running operating systems and projects.Features a quad-core ARM Cortex-A72 CPU and multiple USB ports.Ideal for IoT, media servers, and automation projects."
+  },
+  {
+    "id": 2,
+    "name": "Micro HDMI to HDMI Cable",
+    "image": "https://i.ibb.co.com/994D9LM5/image.png",
+    "description": "Connects Raspberry Pi to a display.Supports high-definition video and audio transmission.Used for connecting to monitors, TVs, and projectors."
+  },
+  {
+    "id": 3,
+    "name": "Raspberry Pi Camera Module V2",
+    "image": "https://i.ibb.co.com/mCQZWLrk/image.png",
+    "description": "Captures photos and videos.8-megapixel resolution with fixed focus lens.Commonly used for surveillance, AI vision, and photography projects."
+  },
+  {
+    "id": 4,
+    "name": "Argon One V2 Metal Fan Case",
+    "image": "https://i.ibb.co.com/TnnP97H/image.png",
+    "description": "Protects Raspberry Pi and provides cooling.Made of aluminum with active and passive cooling.Great for preventing overheating during long processing tasks."
+  },
+  {
+    "id": 5,
+    "name": "Raspberry Pi USB C Power Adapter with Switch",
+    "image": "https://i.ibb.co.com/hJvKjpH2/image.png",
+    "description": "Powers the Raspberry Pi with on/off control.Provides stable 5V 3A power supply.Useful for safe startup and shutdown of Raspberry Pi."
+  },
+  {
+    "id": 6,
+    "name": "SanDisk Ultra 32GB MicroSD Preinstalled Raspberry Pi OS",
+    "image": "https://i.ibb.co.com/35VSLBmj/image.png",
+    "description": "Storage for Raspberry Pi OS and files.Class 10 card with fast read/write speeds.Used to quickly set up Raspberry Pi with preloaded OS."
+  },
+  {
+    "id": 7,
+    "name": "Arduino UNO R3",
+    "image": "https://i.ibb.co.com/cqCv39j/image.png",
+    "description": "Microcontroller board for controlling electronics.Based on ATmega328P with 14 digital I/O pins.Popular for robotics, sensors, and automation control."
+  },
+  {
+    "id": 8,
+    "name": "4WD Smart Robot Car Chassis Kit",
+    "image": "https://i.ibb.co.com/qLL2sGds/image.png",
+    "description": "Base frame for building a four-wheel robot.\nIncludes motors, wheels, and acrylic frame.\nPerfect for obstacle avoidance and path-following robots."
+  },
+  {
+    "id": 9,
+    "name": "Red, White, and Green LED",
+    "image": "https://i.ibb.co.com/Kz0vC6Vr/image.png",
+    "description": "Emit light in red, white, or green.\nOperates at low voltage with long lifespan.\nUsed for indicators, signals, and decorative lighting."
+  },
+  {
+    "id": 10,
+    "name": "Buzzer",
+    "image": "https://i.ibb.co.com/JRkwvYZB/image.png",
+    "description": "Produces sound or alerts.\nOperates on DC voltage and compact in size.\nIdeal for alarms, timers, and status notifications."
+  },
+  {
+    "id": 11,
+    "name": "Wires (Male, Female, and Normal)",
+    "image": "https://i.ibb.co.com/qLT7h71g/image.png",
+    "description": "Connect electronic components.\nFlexible jumper wires for breadboards and modules.\nUsed for prototyping and quick testing of circuits."
+  },
+  {
+    "id": 12,
+    "name": "Breadboard (Full)",
+    "image": "https://i.ibb.co.com/zWWsHsQ4/image.png",
+    "description": "Prototype electronic circuits without soldering.\nHas multiple tie points and power rails.\nIdeal for learning electronics and quick experiments."
+  },
+  {
+    "id": 13,
+    "name": "Push Button Switch (2 Pin)",
+    "image": "https://i.ibb.co.com/NgPbB3rR/image.png",
+    "description": "Turns a circuit on or off when pressed.\nCompact and easy to mount on breadboards.\nUsed for resets, inputs, and manual controls."
+  },
+  {
+    "id": 14,
+    "name": "Potentiometer 100k",
+    "image": "https://i.ibb.co.com/QF2mFJSq/image.png",
+    "description": "Adjusts resistance to control voltage or signal.\nRotary knob for smooth control.\nUsed in volume control, sensors, and tuning circuits."
+  },
+  {
+    "id": 15,
+    "name": "7-Segment Common Cathode Display",
+    "image": "https://i.ibb.co.com/Y4ChGVrf/image.png",
+    "description": "Displays numbers and some characters.\nLow-power LED display with 8 segments.\nUsed in clocks, counters, and scoreboards."
+  },
+  {
+    "id": 16,
+    "name": "LCD Display 16x2 with Header",
+    "image": "https://i.ibb.co.com/nqBdT6Db/image.png",
+    "description": "Displays text in 2 rows of 16 characters.\nWorks with parallel or I2C connection.\nCommon in DIY gadgets, meters, and menus."
+  },
+  {
+    "id": 17,
+    "name": "Hex Keypad",
+    "image": "https://i.ibb.co.com/qYSXHDnq/image.png",
+    "description": "Inputs numbers or commands via buttons.\n4x4 matrix keypad with tactile feedback.\nUsed for password entry and control panels."
+  },
+  {
+    "id": 18,
+    "name": "Motor Shield L293D",
+    "image": "https://i.ibb.co.com/sJ335twJ/image.png",
+    "description": "Controls DC and stepper motors.\nSupports bidirectional control for 4 motors.\nPerfect for robotics and motorized projects."
+  },
+  {
+    "id": 19,
+    "name": "5V Relay Module (Double Channel)",
+    "image": "https://i.ibb.co.com/GffwFJfM/image.png",
+    "description": "Switches high-voltage devices on and off.\nOpto-isolated inputs for safety.\nUsed for home automation and industrial control."
+  },
+  {
+    "id": 20,
+    "name": "Resistors 10k",
+    "image": "https://i.ibb.co.com/gBmS383/image.png",
+    "description": "Limit current flow in circuits.\nStandard tolerance and compact size.\nUsed for voltage division and current limiting."
+  },
+  {
+    "id": 21,
+    "name": "5V 2000 RPM DC Motor",
+    "image": "https://i.ibb.co.com/Z67St7Sw/image.png",
+    "description": "Converts electrical energy to rotational motion.\nHigh-speed motor with metal shaft.\nUsed in robotics, fans, and automation."
+  },
+  {
+    "id": 22,
+    "name": "Servo Motor",
+    "image": "https://i.ibb.co.com/7NjmD2Gn/image.png",
+    "description": "Rotates to a specific position.\nControlled via PWM signal.\nCommon in robotics, cameras, and actuators."
+  },
+  {
+    "id": 23,
+    "name": "Mini DC 4-12V Water Pump Motor",
+    "image": "https://i.ibb.co.com/ksjmhRS0/image.png",
+    "description": "Pumps water in small systems.\nCompact design for portable devices.\nUsed in fountains, cooling, and aquaponics."
+  },
+  {
+    "id": 24,
+    "name": "Ultrasonic Sensor HC-SR04",
+    "image": "https://i.ibb.co.com/V0xVWd1K/image.png",
+    "description": "Measures distance using sound waves.\nRange of 2cm to 4m with high accuracy.\nUsed in robots, parking systems, and obstacle detection."
+  },
+  {
+    "id": 25,
+    "name": "Bluetooth Module HC-05",
+    "image": "https://i.ibb.co.com/M5CndPn0/image.png",
+    "description": "Enables wireless communication via Bluetooth.\nSupports master and slave modes.\nUsed for data transfer between Arduino and phones."
+  },
+  {
+    "id": 26,
+    "name": "ESP8266 ESP-01 WiFi Module",
+    "image": "https://i.ibb.co.com/FbyZdFvP/image.png",
+    "description": "Connects devices to WiFi networks.\nHas TCP/IP protocol stack and serial interface.\nUsed for IoT and web-based control projects."
+  },
+  {
+    "id": 27,
+    "name": "Temperature and Humidity Sensor DHT11",
+    "image": "https://i.ibb.co.com/7N2qWDbX/image.png",
+    "description": "Measures temperature and humidity.\nDigital output for easy interfacing.\nUsed in weather stations and environmental monitoring."
+  },
+  {
+    "id": 28,
+    "name": "IR Infrared Obstacle Avoidance Sensor",
+    "image": "https://i.ibb.co.com/TyRNJ13/image.png",
+    "description": "Detects nearby objects using infrared light.\nAdjustable sensitivity via potentiometer.\nUsed in robots and automation systems."
+  },
+  {
+    "id": 29,
+    "name": "SIM800L Mini GPRS GSM Module",
+    "image": "https://i.ibb.co.com/zh6rFQ7m/image.png",
+    "description": "Sends and receives data/calls via cellular networks.\nOperates on 2G GSM with low power.\nUsed for SMS alerts, GPS, and IoT."
+  },
+  {
+    "id": 30,
+    "name": "Mini Cooling Fan 40x40x10mm",
+    "image": "https://i.ibb.co.com/JRTQs3WW/image.png",
+    "description": "Provides cooling for electronics.\nOperates on 5V DC with low noise.\nUsed in Raspberry Pi cases, 3D printers, and PCs."
+  },
+  {
+    "id": 31,
+    "name": "LM30 Temperature Sensor",
+    "image": "https://i.ibb.co.com/d4L346Xx/image.png",
+    "description": "Measures temperature.\nAnalog output with high accuracy.\nUsed in HVAC, weather, and industrial systems."
+  },
+  {
+    "id": 32,
+    "name": "PIR Sensor",
+    "image": "https://i.ibb.co.com/14q1N0Y/image.png",
+    "description": "Detects motion using infrared radiation.\nHas adjustable delay and sensitivity.\nUsed in security alarms and motion-triggered devices."
+  },
+  {
+    "id": 33,
+    "name": "Pulse Oximeter Sensor",
+    "image": "https://i.ibb.co.com/PsbwLQNg/image.png",
+    "description": "Measures blood oxygen level and pulse rate.\nUses light absorption through fingertip.\nUsed in health monitoring and wearable devices."
+  },
+  {
+    "id": 34,
+    "name": "RTC Module",
+    "image": "https://i.ibb.co.com/fV1YKQ9T/image.png",
+    "description": "Keeps track of real-time clock and date.\nHas battery backup for continuous timekeeping.\nUsed in clocks, loggers, and scheduling systems."
+  }
+]

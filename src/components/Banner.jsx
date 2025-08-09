@@ -7,12 +7,12 @@ const Banner = () => {
   };
 
   return (
-    <div className="w-full h-72 bg-gray-100">
-      <div className="p-24">
-        <h1 className="text-lg">Welcome To</h1>
+    <div className="w-full min-h-[300px] sm:min-h-[400px] bg-gray-100 flex items-center">
+      <div className="px-6 sm:px-12 lg:px-24 py-10 text-center sm:text-left">
+        <h1 className="text-black sm:text-white">Welcome To</h1>
         <SplitText
           text="IoT Hub!"
-          className="text-[56px] font-semibold"
+          className="sm:text-white text-5xl text-black lg:text-[56px] font-semibold"
           delay={100}
           duration={0.6}
           ease="power3.out"
@@ -23,9 +23,8 @@ const Banner = () => {
           rootMargin="-100px"
           textAlign="center"
           onLetterAnimationComplete={handleAnimationComplete}
-        />{" "}
+        />
         <br />
-        {/* <h6 className="text-[56px] text-orange-400">IoT Hub</h6> */}
         <TextType
           text={["Know about your IoT Accessories From Here."]}
           typingSpeed={75}
@@ -33,7 +32,6 @@ const Banner = () => {
           showCursor={true}
           cursorCharacter="|"
         />
-        {/* <h3>Know about your IoT Accessories From Here.</h3> */}
       </div>
     </div>
   );

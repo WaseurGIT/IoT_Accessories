@@ -19,7 +19,7 @@ function App() {
         speed={1}
         resolutionScale={1}
       /> */}
-      <div>
+      <div className="bg-gray-100">
         <Navbar onSearch={setSearchQuery} />
         <Banner></Banner>
         <Products searchQuery={searchQuery} />

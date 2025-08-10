@@ -1,8 +1,8 @@
 const Navbar = ({ onSearch = () => {} }) => {
   return (
-    <div className="navbar shadow-sm px-4 sm:px-8 lg:px-28 flex flex-col sm:flex-row sm:items-center gap-3 sm:gap-0 sm:flex sm:justify-between sm:items-center">
+    <div className="navbar shadow-sm px-4 sm:px-8 lg:px-28 flex flex-col sm:flex-row sm:items-center gap-3 sm:gap-0 sm:flex sm:justify-between">
       <div className="flex-1">
-        <a href="/" className="sm:text-white btn btn-ghost text-xl sm:text-2xl text-black ">
+        <a href="/" className="sm:text-white btn btn-ghost lg:text-black text-xl sm:text-2xl ">
           IoT Hub
         </a>
       </div>
